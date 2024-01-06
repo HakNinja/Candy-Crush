@@ -9,5 +9,5 @@
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#Screenshots
+![Screenshot from 2024-01-06 09-46-48](https://github.com/HakNinja/Candy-Crush/assets/54062595/a97258ff-ceb3-434f-80e1-254311eebaa0)
